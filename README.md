@@ -1,0 +1,2 @@
+# BraveLegendsDownload
+BraveLegends download code
